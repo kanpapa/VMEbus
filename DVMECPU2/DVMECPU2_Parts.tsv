@@ -1,0 +1,91 @@
+		Spec	Comments	
+U1	SN74LS245N	Octal Bus Transceivers With 3-State Outputs		
+U2	SN74LS245N	Octal Bus Transceivers With 3-State Outputs		
+U3	SN74LS244N	8-ch, 4.75-V to 5.25-V bipolar buffers with 3-state outputs		
+U4	MC74F244N	BUS DRIVER, F/FAST SERIES, 2 FUN		
+U5	MC74F244N	BUS DRIVER, F/FAST SERIES, 2 FUN		
+U6	SN74ALS645A-1N	Octal Bus Trnscvrs With 3-State Outputs		
+U7	MC74F244N	BUS DRIVER, F/FAST SERIES, 2 FUN		
+U8	SN74LS244N	8-ch, 4.75-V to 5.25-V bipolar buffers with 3-state outputs		
+U9	SN74LS244N	8-ch, 4.75-V to 5.25-V bipolar buffers with 3-state outputs		
+U10	74HC08AP	Quad 2-Input AND Gate 		
+U11	SN74LS244N	8-ch, 4.75-V to 5.25-V bipolar buffers with 3-state outputs		
+U12	MC74F244N	BUS DRIVER, F/FAST SERIES, 2 FUN		
+U13	MC74F244N	BUS DRIVER, F/FAST SERIES, 2 FUN		
+U14	SN74ALS645A-1N	Octal Bus Trnscvrs With 3-State Outputs		
+U15	EXTRA	-		
+U16	SN74LS240N	Octal Buffers and Line Drivers With 3-State Outputs		
+U17	74HC08AP	Quad 2-Input AND Gate 		
+U18	PAL16L8ACN	20-Pin TTL Programmable Array Logic	VCC41A	
+U19	74HC00AP	Quad 2-Input NAND Gate		
+U20	74HC00AP	Quad 2-Input NAND Gate		
+U21	74HC151P	8-Line To 1-Line Data Selectors/Multiplexers	IOCHIRQ	
+U22	74HC148AP	8-to-3 Line Priority Encoder 	IRQで使用	
+U23	PAL16L8BCN	20-Pin TTL Programmable Array Logic	VCC11A	
+U24	EXTRA	-		
+U25	SN74S38N	Quadruple 2-Input Positive-NAND Buffers w/ Open-Collector Outputs		
+U26	74HC04AP	6-ch, 2-V to 6-V inverters		
+U27	74AC74PC	Dual D-Type Positive Edge-Triggered Flip-Flop		
+U28	74HC04AP	6-ch, 2-V to 6-V inverters		
+U29	PAL16L8BCN	20-Pin TTL Programmable Array Logic	VCC12A	
+U30	EXTRA	-		
+U31	HD68HC000P10	68000 CPU		
+U32	74HC174AP	Hex D-Type Flip Flop with Clear		
+U33	74HC08P	Quad 2-Input AND Gate 		
+U34	74HC74AP	Dual D-Type Flip Flop with Preset and Clear		
+U35	74HC00AP	Quad 2-Input NAND Gate		
+U36	74HC11AP	Triple 3-Input AND Gate 		
+U37	74HC04AP	6-ch, 2-V to 6-V inverters		U４５の下
+U38	74HC4075AP	Triple 3-Input OR Gate 		U４５の下
+U39	TL7705CP	Supply-Voltage Supervisors		U４６の下
+U40	74HC393AP	Dual 4-bit binary ripple counter		U４６の下
+U41	74HC244AP	Octal Bus Buffer Non-Inverted, 3-State Outputs 		
+U42	74HC393AP	Dual 4-bit binary ripple counter		
+U42A	74HC14AP	Hex Schmitt Inverter		
+U43	74HC10AP	TRIPLE 3-INPUT NAND GATE		
+U44	74HC00AP	Quad 2-Input NAND Gate		
+U45	27C512			
+U46	27C512			
+U47	74HC244AP	Octal Bus Buffer Non-Inverted, 3-State Outputs 		
+U48	SN74S38N	Quadruple 2-Input Positive-NAND Buffers w/ Open-Collector Outputs		
+U49	74HC32AP	Triple 3-Input OR Gate 		
+U50	74HC4075AP	Triple 3-Input OR Gates		
+U51	74HC04AP	6-ch, 2-V to 6-V inverters		
+U52	74HC27AP	3-ch, 3-input, 2-V to 6-V NOR gates		
+U53	74HC08AP	4-ch, 2-input, 2-V to 6-V AND gates		
+U54	SN74HC164	8-Bit Parallel-Out Serial Shift Registers	DTACKの設定で使用。rom/ram wait設定	
+U55	SN74ALS74AN	Dual Positive-Edge-Triggered D-Type Flip-Flops With Clear And Preset		
+U56	74HC32AP	4-ch, 2-input, 2-V to 6-V OR gates		
+U57	74HC139AP	High Speed CMOS Logic Dual 2-to-4 Line Decoders/Demultiplexers	1回路はROMのアドレスデコーダ(A17), もう１回路は未使用	
+U58	i27512	512Kbit EPROM		
+U59	i27512	512Kbit EPROM		
+U60	SN74ALS32N	4-ch, 2-input, 4.5-V to 5.5-V bipolar OR gates		
+U61	74HC164AP	8-Bit Parallel-Out Serial Shift Registers	リセット後の４サイクルの判断用？	U62の下
+U62	HD63B40P	PTM (Programmable Time Module)		
+U63	74HC194AP	High-Speed CMOS Logic 4-Bit Bidirectional Universal Shift Register		
+U64	74HC139AP	High Speed CMOS Logic Dual 2-to-4 Line Decoders/Demultiplexers		
+U65	74HC02AP	4-ch, 2-input, 2-V to 6-V NOR gates		
+U66	HM62256LP-10	32768-word x 8bit High Speed CMOS Static RAM 100ns		
+U67	74HC08AP	4-ch, 2-input, 2-V to 6-V AND gates		
+U68	74HC04AP	6-ch, 2-V to 6-V inverters		
+U69	HM62256LP-10	32768-word x 8bit High Speed CMOS Static RAM 100ns		
+U70	74HC03AP	4-ch, 2-input, 2-V to 6-V NAND gates with open-drain outputs		
+U71	74HC04AP	6-ch, 2-V to 6-V inverters		
+U72	74HC132AP	Quadruple Positive-NAND Gates With Schmitt-Trigger Inputs	BATT	
+U73	TL7705CP	Supply-Voltage Supervisors		
+U74	74HC04AP	6-ch, 2-V to 6-V inverters		
+U75	HD63B50P	ACIA (Asynchronous Communications Interface Adapter)		
+U76	74HC74AP	Dual D-Type Flip Flop with Preset and Clear		
+U77	74HC393AP	Dual 4-bit binary ripple counter		
+U78	HD63B50P	ACIA (Asynchronous Communications Interface Adapter)		
+U79	74HC174AP	Hex D-Type Flip-Flops With Clear		
+U80	HM62256LP-10	32768-word x 8bit High Speed CMOS Static RAM 100ns		
+U81	74HC244AP	8-ch, 2-V to 6-V buffers with 3-state outputs		
+U82	74HC132	Quadruple Positive-NAND Gates With Schmitt-Trigger Inputs		
+U83	HM62256LP-10	32768-word x 8bit High Speed CMOS Static RAM 100ns		
+U84	MC1488P	RS-232 quad line driver		
+U85	MC1489AP	QUAD LINE RECEIVERS		
+U86	74HC139AP	High Speed CMOS Logic Dual 2-to-4 Line Decoders/Demultiplexers	BATT	
+U87	RP5C15	Real Time Clock Parallel 18-Pin	BATT	
+U89	SPG8650D	Crystal Oscillators - Programmable - Seiko Epson		
+U90	SPG8650D	Crystal Oscillators - Programmable - Seiko Epson		
