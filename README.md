@@ -1,7 +1,7 @@
 # VMEbus
 
-This repository contains documentation and sources for running digital's 68000 VME board DVME CPU2.
-Please refer to my blog for more information.
+This repository contains documentation and sources for running digital's 68000 VME board DVME CPU2.  
+Please refer to my blog for more information.  
 https://kanpapa.com/today/2023/08/68000-vme-board1.html
 
 * DVMECPU2
