@@ -24,6 +24,15 @@ https://kanpapa.com/today/2023/08/68000-vme-board1.html
   * zbug monitor source program and ROM image data.
 
 * images
-  * Digital's DVME CPU2 VME board
+  * Photos data
 
-Caution: The contents of this repository are the result of personal research and are non-guaranteed.
+## Photos
+
+![DVME CPU2](/images/DVME_CPU2_board_front1.jpg)
+
+![VME Power board1](/images/vme_board_3_power_pcb_product2.jpg)
+
+![VME Power board2](/images/vme_board_3_power_pcb_product3.jpg)
+
+## Caution
+The contents of this repository are the result of personal research and are non-guaranteed.
