@@ -23,6 +23,10 @@ https://kanpapa.com/today/2023/08/68000-vme-board1.html
 * zBug
   * zbug monitor source program and ROM image data.
 
+* EhBASIC for DVMECPU2
+  * Modified [EhBASIC](https://philpem.me.uk/leeedavison/68k/simbasic/index.html) source code for DVMECPU2.
+  * Free for personal use only (see readme.txt).
+
 * images
   * Photos data
 
