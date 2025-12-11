@@ -31,12 +31,19 @@ https://kanpapa.com/today/2023/08/68000-vme-board1.html
   * Photos data
 
 ## Photos
+* Digital DVMECPU2 board
 
 ![DVME CPU2](/images/DVME_CPU2_board_front1.jpg)
+
+* VME Power board
 
 ![VME Power board1](/images/vme_board_3_power_pcb_product2.jpg)
 
 ![VME Power board2](/images/vme_board_3_power_pcb_product3.jpg)
+
+* VME J1 Terminator off board
+
+TBA
 
 ## Caution
 The contents of this repository are the result of personal research and are non-guaranteed.
