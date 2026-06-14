@@ -7,27 +7,27 @@ This repository contains documentation and sources for running digital's 68000 V
 Please refer to my blog for more information.  
 https://kanpapa.com/2023/08/68000-vme-board1.html
 
-* DVMECPU2
+* [DVMECPU2](/DVMECPU2/)
   * Memory map
   * Parts list
 
-* Hardware test
+* [Hardware test](/hardware_test/)
   * This program sends a Hello world string to the serial port.
 
-* VME_power
+* [VME_power](/VME_power/)
   * Kicad data for the printed circuit board to supply power to the VME board.
 
-* mbed
+* [mbed](/mbed/)
   * CPU simulator for investigating address decoders using mbed LPC1768.
 
-* zBug
+* [zBug](/zBug/)
   * zbug monitor source program and ROM image data.
 
-* EhBASIC for DVMECPU2
+* [EhBASIC for DVMECPU2](/EhBASIC/)
   * Modified [EhBASIC](https://philpem.me.uk/leeedavison/68k/simbasic/index.html) source code for DVMECPU2.
   * Free for personal use only (see readme.txt).
 
-* images
+* [images](/images/)
   * Photos data
 
 ## Photos
